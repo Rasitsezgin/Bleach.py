@@ -1,4 +1,4 @@
-#   python selam.py -u "http://10.0.2.31/wordpress/?p=4" -v -o sonuclar.json
+#   python bleach.py -u "http://10.0.2.31/wordpress/?p=4" -v -o sonuclar.json
 
 
 #!/usr/bin/env python3
